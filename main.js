@@ -104,6 +104,6 @@ p.addEventListener('click', function() {
 
   navigator.clipboard.writeText(p.innerText);
 
-  alert('Copy Successful');
+  alert(p.innerText + ' - Copy Successful');
 
 })
