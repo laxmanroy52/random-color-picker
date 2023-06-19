@@ -4,7 +4,7 @@
 
 The Random Color Picker is a simple web application that generates random colors and allows users to copy the color code to their clipboard. It can be used for various purposes, such as generating color palettes, inspiration, or educational purposes.
 
-![Random Color Picker Screenshot](Screenshot_20230619-101149.png)
+![Random Color Picker Screenshot](Screenshot_20230619-101149~2.png)
 
 ## Features
 
