@@ -1,7 +1,5 @@
 # Random Color Picker
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 The Random Color Picker is a simple web application that generates random colors and allows users to copy the color code to their clipboard. It can be used for various purposes, such as generating color palettes, inspiration, or educational purposes.
 
 ![Random Color Picker Screenshot](Screenshot_20230619-101149~2.png)
@@ -9,14 +7,13 @@ The Random Color Picker is a simple web application that generates random colors
 ## Features
 
 - Generates random colors with each click
-- Displays the color code in various formats (hex, RGB, HSL)
+- Displays the color code in hexadecimal format
 - Copy color code to clipboard
-- Adjustable color brightness
 - Responsive design for desktop and mobile devices
 
 ## Demo
 
-You can try out the Random Color Picker in the live demo [here](https://your-demo-url.com).
+You can try out the Random Color Picker in the live demo [here](https://laxmanroy52.github.io/random-color-picker/).
 
 ## Installation
 
@@ -28,11 +25,7 @@ To install and run the Random Color Picker locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. See the [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 ## Acknowledgements
 
