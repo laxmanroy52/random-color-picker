@@ -22,7 +22,7 @@ You can try out the Random Color Picker in the live demo [here](https://your-dem
 
 To install and run the Random Color Picker locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/random-color-picker.git`
+1. Clone the repository: `gh repo clone laxmanroy52/random-color-picker`
 2. Navigate to the project directory: `cd random-color-picker`
 3. Open `index.html` in your preferred web browser
 
